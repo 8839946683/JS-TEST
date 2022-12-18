@@ -35,3 +35,5 @@ function render(data){
                     <p><u><b>University Name:</b></u> ${newData[i].name}</p>
                     <p><u><b>University Site URL:</b></u> ${newData[i].web_pages}</p>
                 </div>`
+    }
+}
