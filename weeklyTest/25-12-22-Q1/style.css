@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    color: silver;
+}
+
+body{
+    text-align: center;
+   
+    background-color: black;
+}
+
+.container{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+img{
+    height: 200px;
+    width: 300px;
+    box-shadow: 0px 0px 2px 2px rgb(245, 239, 239);
+}
